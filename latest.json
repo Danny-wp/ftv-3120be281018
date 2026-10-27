@@ -1,0 +1,13 @@
+{
+  "version": "b90fbd7fd2339557",
+  "updatedAt": "2026-10-27T07:45:27.487185+00:00",
+  "playlistUrl": "versions/b90fbd7fd2339557d54d9e91afdcbff67608704f42de36c456988a9e78b7f887.json",
+  "sha256": "b90fbd7fd2339557d54d9e91afdcbff67608704f42de36c456988a9e78b7f887",
+  "channelCount": 445,
+  "probe": "Curated routes carry decode evidence; other candidates require TV verification; local failures take precedence",
+  "schemaVersion": 1,
+  "catalogKind": "cloud-candidates",
+  "mediaValidated": false,
+  "validationNode": "tv-playback",
+  "encryption": "aes-256-gcm-v1"
+}
