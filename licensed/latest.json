@@ -1,14 +1,14 @@
 {
-  "version": "5d4749c781a50dc4",
-  "updatedAt": "2026-10-31T16:27:07.920655+00:00",
-  "playlistUrl": "versions/5d4749c781a50dc42d7ebe5ac998b542a0147ea415f6ff5514bbac266ceb9aae.json",
-  "sha256": "5d4749c781a50dc42d7ebe5ac998b542a0147ea415f6ff5514bbac266ceb9aae",
-  "channelCount": 640,
+  "version": "bb9d80b239c3a4ea",
+  "updatedAt": "2026-11-01T01:41:45.461455+00:00",
+  "playlistUrl": "versions/bb9d80b239c3a4eacc5c9c25e7e11ee06049e8be1ae8b21ec78e3d6816c4fc89.json",
+  "sha256": "bb9d80b239c3a4eacc5c9c25e7e11ee06049e8be1ae8b21ec78e3d6816c4fc89",
+  "channelCount": 800,
   "probe": "Curated routes carry decode evidence; other candidates require TV verification; local failures take precedence",
   "schemaVersion": 1,
   "catalogKind": "cloud-candidates",
   "mediaValidated": false,
   "validationNode": "tv-playback",
   "encryption": "aes-256-gcm-epoch-v1",
-  "epoch": "202610"
+  "epoch": "202611"
 }
