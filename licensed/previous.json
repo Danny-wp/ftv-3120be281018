@@ -1,19 +1,19 @@
 {
-  "version": "ae5a086cbc4b91c4",
-  "updatedAt": "2026-11-05T02:59:26.798867+00:00",
-  "playlistUrl": "versions/ae5a086cbc4b91c48db3608a36c5d4a3909de51ef3076ae3be4fde3e20fa22fc.json",
-  "sha256": "ae5a086cbc4b91c48db3608a36c5d4a3909de51ef3076ae3be4fde3e20fa22fc",
-  "channelCount": 229,
+  "version": "f6ace7cc6f2e604d",
+  "updatedAt": "2026-11-06T02:58:28.971094+00:00",
+  "playlistUrl": "versions/f6ace7cc6f2e604d84eeccbe598bdde26374b46f7e025471b3f94b69afe32567.json",
+  "sha256": "f6ace7cc6f2e604d84eeccbe598bdde26374b46f7e025471b3f94b69afe32567",
+  "channelCount": 233,
   "probe": "Managed membership controls visibility; playback success is measured on the TV",
   "schemaVersion": 1,
   "catalogKind": "cloud-candidates",
   "mediaValidated": false,
   "validationNode": "tv-playback",
   "managedCatalog": true,
-  "listedChannelCount": 229,
+  "listedChannelCount": 233,
   "candidateChannelCount": 0,
   "encryption": "aes-256-gcm-epoch-v1",
   "epoch": "202611",
-  "signedManifest": "eyJ2ZXJzaW9uIjoiYWU1YTA4NmNiYzRiOTFjNCIsInVwZGF0ZWRBdCI6IjIwMjYtMTEtMDVUMDI6NTk6MjYuNzk4ODY3KzAwOjAwIiwicGxheWxpc3RVcmwiOiJ2ZXJzaW9ucy9hZTVhMDg2Y2JjNGI5MWM0OGRiMzYwOGEzNmM1ZDRhMzkwOWRlNTFlZjMwNzZhZTNiZTRmZGUzZTIwZmEyMmZjLmpzb24iLCJzaGEyNTYiOiJhZTVhMDg2Y2JjNGI5MWM0OGRiMzYwOGEzNmM1ZDRhMzkwOWRlNTFlZjMwNzZhZTNiZTRmZGUzZTIwZmEyMmZjIiwiY2hhbm5lbENvdW50IjoyMjksInByb2JlIjoiTWFuYWdlZCBtZW1iZXJzaGlwIGNvbnRyb2xzIHZpc2liaWxpdHk7IHBsYXliYWNrIHN1Y2Nlc3MgaXMgbWVhc3VyZWQgb24gdGhlIFRWIiwic2NoZW1hVmVyc2lvbiI6MSwiY2F0YWxvZ0tpbmQiOiJjbG91ZC1jYW5kaWRhdGVzIiwibWVkaWFWYWxpZGF0ZWQiOmZhbHNlLCJ2YWxpZGF0aW9uTm9kZSI6InR2LXBsYXliYWNrIiwibWFuYWdlZENhdGFsb2ciOnRydWUsImxpc3RlZENoYW5uZWxDb3VudCI6MjI5LCJjYW5kaWRhdGVDaGFubmVsQ291bnQiOjAsImVuY3J5cHRpb24iOiJhZXMtMjU2LWdjbS1lcG9jaC12MSIsImVwb2NoIjoiMjAyNjExIn0=",
-  "manifestSig": "MEUCIQDx+b0bXHAS2nlUIpIoNt+XGiitQ0o1wsh3ajD1qXiJxwIgcIdJZAgEw96ddsPww5mXLu71qFdg0nM9OD05F1zqNRA="
+  "signedManifest": "eyJ2ZXJzaW9uIjoiZjZhY2U3Y2M2ZjJlNjA0ZCIsInVwZGF0ZWRBdCI6IjIwMjYtMTEtMDZUMDI6NTg6MjguOTcxMDk0KzAwOjAwIiwicGxheWxpc3RVcmwiOiJ2ZXJzaW9ucy9mNmFjZTdjYzZmMmU2MDRkODRlZWNjYmU1OThiZGRlMjYzNzRiNDZmN2UwMjU0NzFiM2Y5NGI2OWFmZTMyNTY3Lmpzb24iLCJzaGEyNTYiOiJmNmFjZTdjYzZmMmU2MDRkODRlZWNjYmU1OThiZGRlMjYzNzRiNDZmN2UwMjU0NzFiM2Y5NGI2OWFmZTMyNTY3IiwiY2hhbm5lbENvdW50IjoyMzMsInByb2JlIjoiTWFuYWdlZCBtZW1iZXJzaGlwIGNvbnRyb2xzIHZpc2liaWxpdHk7IHBsYXliYWNrIHN1Y2Nlc3MgaXMgbWVhc3VyZWQgb24gdGhlIFRWIiwic2NoZW1hVmVyc2lvbiI6MSwiY2F0YWxvZ0tpbmQiOiJjbG91ZC1jYW5kaWRhdGVzIiwibWVkaWFWYWxpZGF0ZWQiOmZhbHNlLCJ2YWxpZGF0aW9uTm9kZSI6InR2LXBsYXliYWNrIiwibWFuYWdlZENhdGFsb2ciOnRydWUsImxpc3RlZENoYW5uZWxDb3VudCI6MjMzLCJjYW5kaWRhdGVDaGFubmVsQ291bnQiOjAsImVuY3J5cHRpb24iOiJhZXMtMjU2LWdjbS1lcG9jaC12MSIsImVwb2NoIjoiMjAyNjExIn0=",
+  "manifestSig": "MEQCID55TzcRWbCLYaORnRmx6sduSPOdeWTEOOV5BTo/KlAcAiBybkh2+baOmfI3ww4J/YJpydVVdtY5Q1kZfhI/+6EAEw=="
 }
