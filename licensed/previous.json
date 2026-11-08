@@ -1,8 +1,8 @@
 {
-  "version": "f6ace7cc6f2e604d",
-  "updatedAt": "2026-11-06T02:58:28.971094+00:00",
-  "playlistUrl": "versions/f6ace7cc6f2e604d84eeccbe598bdde26374b46f7e025471b3f94b69afe32567.json",
-  "sha256": "f6ace7cc6f2e604d84eeccbe598bdde26374b46f7e025471b3f94b69afe32567",
+  "version": "7d63c83beca41bb4",
+  "updatedAt": "2026-11-07T02:28:22.371500+00:00",
+  "playlistUrl": "versions/7d63c83beca41bb4c26efac79d4fb8ac83e008d13e3bd4ff427877838194e93b.json",
+  "sha256": "7d63c83beca41bb4c26efac79d4fb8ac83e008d13e3bd4ff427877838194e93b",
   "channelCount": 233,
   "probe": "Managed membership controls visibility; playback success is measured on the TV",
   "schemaVersion": 1,
@@ -14,6 +14,6 @@
   "candidateChannelCount": 0,
   "encryption": "aes-256-gcm-epoch-v1",
   "epoch": "202611",
-  "signedManifest": "eyJ2ZXJzaW9uIjoiZjZhY2U3Y2M2ZjJlNjA0ZCIsInVwZGF0ZWRBdCI6IjIwMjYtMTEtMDZUMDI6NTg6MjguOTcxMDk0KzAwOjAwIiwicGxheWxpc3RVcmwiOiJ2ZXJzaW9ucy9mNmFjZTdjYzZmMmU2MDRkODRlZWNjYmU1OThiZGRlMjYzNzRiNDZmN2UwMjU0NzFiM2Y5NGI2OWFmZTMyNTY3Lmpzb24iLCJzaGEyNTYiOiJmNmFjZTdjYzZmMmU2MDRkODRlZWNjYmU1OThiZGRlMjYzNzRiNDZmN2UwMjU0NzFiM2Y5NGI2OWFmZTMyNTY3IiwiY2hhbm5lbENvdW50IjoyMzMsInByb2JlIjoiTWFuYWdlZCBtZW1iZXJzaGlwIGNvbnRyb2xzIHZpc2liaWxpdHk7IHBsYXliYWNrIHN1Y2Nlc3MgaXMgbWVhc3VyZWQgb24gdGhlIFRWIiwic2NoZW1hVmVyc2lvbiI6MSwiY2F0YWxvZ0tpbmQiOiJjbG91ZC1jYW5kaWRhdGVzIiwibWVkaWFWYWxpZGF0ZWQiOmZhbHNlLCJ2YWxpZGF0aW9uTm9kZSI6InR2LXBsYXliYWNrIiwibWFuYWdlZENhdGFsb2ciOnRydWUsImxpc3RlZENoYW5uZWxDb3VudCI6MjMzLCJjYW5kaWRhdGVDaGFubmVsQ291bnQiOjAsImVuY3J5cHRpb24iOiJhZXMtMjU2LWdjbS1lcG9jaC12MSIsImVwb2NoIjoiMjAyNjExIn0=",
-  "manifestSig": "MEQCID55TzcRWbCLYaORnRmx6sduSPOdeWTEOOV5BTo/KlAcAiBybkh2+baOmfI3ww4J/YJpydVVdtY5Q1kZfhI/+6EAEw=="
+  "signedManifest": "eyJ2ZXJzaW9uIjoiN2Q2M2M4M2JlY2E0MWJiNCIsInVwZGF0ZWRBdCI6IjIwMjYtMTEtMDdUMDI6Mjg6MjIuMzcxNTAwKzAwOjAwIiwicGxheWxpc3RVcmwiOiJ2ZXJzaW9ucy83ZDYzYzgzYmVjYTQxYmI0YzI2ZWZhYzc5ZDRmYjhhYzgzZTAwOGQxM2UzYmQ0ZmY0Mjc4Nzc4MzgxOTRlOTNiLmpzb24iLCJzaGEyNTYiOiI3ZDYzYzgzYmVjYTQxYmI0YzI2ZWZhYzc5ZDRmYjhhYzgzZTAwOGQxM2UzYmQ0ZmY0Mjc4Nzc4MzgxOTRlOTNiIiwiY2hhbm5lbENvdW50IjoyMzMsInByb2JlIjoiTWFuYWdlZCBtZW1iZXJzaGlwIGNvbnRyb2xzIHZpc2liaWxpdHk7IHBsYXliYWNrIHN1Y2Nlc3MgaXMgbWVhc3VyZWQgb24gdGhlIFRWIiwic2NoZW1hVmVyc2lvbiI6MSwiY2F0YWxvZ0tpbmQiOiJjbG91ZC1jYW5kaWRhdGVzIiwibWVkaWFWYWxpZGF0ZWQiOmZhbHNlLCJ2YWxpZGF0aW9uTm9kZSI6InR2LXBsYXliYWNrIiwibWFuYWdlZENhdGFsb2ciOnRydWUsImxpc3RlZENoYW5uZWxDb3VudCI6MjMzLCJjYW5kaWRhdGVDaGFubmVsQ291bnQiOjAsImVuY3J5cHRpb24iOiJhZXMtMjU2LWdjbS1lcG9jaC12MSIsImVwb2NoIjoiMjAyNjExIn0=",
+  "manifestSig": "MEUCIQChLXTynWYR/nIAjWZ4uQhlTU89Zzs7v/iNc8i5lh/jwAIga8+iikmVSkoY6xw5nx4QIqzF+QGJsMJsHGZrYF97TwY="
 }
