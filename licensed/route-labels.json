@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T04:37:47.116205+00:00",
-  "catalogSha256": "be83e4c3cb642c709d39f76ca68b5d34cbdda6ccb44abe4945d9cf88e3934585",
+  "generatedAt": "2026-11-26T19:50:38.890124+00:00",
+  "catalogSha256": "f0d828ac62a312ecb5749641de9035f19a31f4e45062b9f92e30a03763fe7292",
   "routes": {
     "b3d3d19c5bd9180772c9680179aa8de80fb4619abf7138acf292ec00fc0f21a8": {
       "number": 1,
@@ -105,6 +105,11 @@
     },
     "0b0cff4c39080b3a1a9ef03441c8882bc5662f5a54081c5c2d5cd42e7c57b290": {
       "number": 8,
+      "active": true,
+      "month": "2026-11"
+    },
+    "e469fc451d93c4733e91f9344ddfcb992bd1c179671530bfa689d2ce6220fdc0": {
+      "number": 9,
       "active": true,
       "month": "2026-11"
     },
@@ -1315,6 +1320,11 @@
     },
     "517efc7eaad3a7e6746a6425ff1cbf5e563db93649cb383ac82afd0c6c3c8839": {
       "number": 5,
+      "active": true,
+      "month": "2026-11"
+    },
+    "be346faf9564999b444266b084dd037e5126d116bbddd22fbf955f9be28a1000": {
+      "number": 6,
       "active": true,
       "month": "2026-11"
     },
