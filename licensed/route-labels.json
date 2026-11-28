@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-28T02:26:01.904934+00:00",
-  "catalogSha256": "d6d816154f9104c2e9c18321f5fa903de2785d36c871cdb6eaac88d7c9a35e5b",
+  "generatedAt": "2026-11-28T04:26:19.427301+00:00",
+  "catalogSha256": "153263a318e834308eedff70db5c898cc9f430e28da5fd0cc7ebce5677bdaebc",
   "routes": {
     "55b7410aaed2ea97b5d5baf7664d21e3b377d3522a20d991f79739b6e8e308bc": {
       "number": 1,
@@ -2225,11 +2225,6 @@
     },
     "28cb0d37369d9c39527ffb99ff921d84d94de4d67dd49503b09c69ff988acd41": {
       "number": 3,
-      "active": true,
-      "month": "2026-11"
-    },
-    "a9d51ce1c6e56322d36bc7e6b6f68d820954fd9da90371f664a22e6dcc639762": {
-      "number": 4,
       "active": true,
       "month": "2026-11"
     },
